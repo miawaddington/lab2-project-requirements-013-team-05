@@ -2,8 +2,8 @@
 
 Team Number: 5
 
-Group Members
-Austin Hutchen - github @austinhutchen
-Andrew Gusty - github @JGAndrew2022
-Mia Waddington - github @miawaddington
-Malcolm Holman - github @malicolm
+Group Members <br />
+Austin Hutchen - github @austinhutchen <br />
+Andrew Gusty - github @JGAndrew2022 <br />
+Mia Waddington - github @miawaddington <br />
+Malcolm Holman - github @malicolm <br />
